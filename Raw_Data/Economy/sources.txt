@@ -1,0 +1,19 @@
+@online{worldbank_growth,
+    author      = {{World Bank}},
+    title       = {{GDP growth (annual %)}},
+    year        = {2022},
+    organization = {{World Bank}},
+    url         = {https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG},
+    note        = {Accessed: 2024-03-01},
+}
+
+
+@online{worldbank_gini,
+    author      = {{World Bank}},
+    title       = {{Gini Index}},
+    year        = {2022},
+    organization = {{World Bank}},
+    url         = {https://data.worldbank.org/indicator/SI.POV.GINI},
+    note        = {Accessed: 2024-03-01},
+}
+

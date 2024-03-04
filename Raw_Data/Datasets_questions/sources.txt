@@ -1,0 +1,31 @@
+@misc{issp1993,
+    author = {ISSP Research Group},
+    title = {International Social Survey Programme: Environment I - ISSP 1993},
+    year = {1995},
+    howpublished = {GESIS Datenarchiv, K{\"o}ln. ZA2450 Datenfile Version 1.0.0, \url{https://doi.org/10.4232/1.2450}},
+    doi = {10.4232/1.2450},
+}
+
+@misc{issp2000,
+    author = {ISSP Research Group},
+    title = {International Social Survey Programme: Environment II - ISSP 2000},
+    year = {2003},
+    howpublished = {GESIS Datenarchiv, K{\"o}ln. ZA3440 Datenfile Version 1.0.0, \url{https://doi.org/10.4232/1.3440}},
+    doi = {10.4232/1.3440},
+}
+
+@misc{issp2010,
+    author = {ISSP Research Group},
+    title = {International Social Survey Programme: Environment III - ISSP 2010},
+    year = {2019},
+    howpublished = {GESIS Datenarchiv, K{\"o}ln. ZA5500 Datenfile Version 3.0.0, \url{https://doi.org/10.4232/1.13271}},
+    doi = {10.4232/1.13271},
+}
+
+@misc{issp2020,
+author = "ISSP Research Group",
+title = "International Social Survey Programme: Environment IV - ISSP 2020",
+year = "2023",
+howpublished = "GESIS, K{\"o}ln. ZA7650 Datenfile Version 2.0.0, https://doi.org/10.4232/1.14153",
+doi = "10.4232/1.14153",
+}
