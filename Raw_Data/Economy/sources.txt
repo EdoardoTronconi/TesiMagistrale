@@ -8,6 +8,16 @@
 }
 
 
+@online{worldbank_gdp_pcap,
+    author      = {{World Bank}},
+    title       = {{GDP per capita (Current US$)}},
+    year        = {2022},
+    organization = {{World Bank}},
+    url         = {https://data.worldbank.org/indicator/NY.GDP.PCAP.CD},
+    note        = {Accessed: 2024-03-05},
+}
+
+
 @online{worldbank_gini,
     author      = {{World Bank}},
     title       = {{Gini Index}},
