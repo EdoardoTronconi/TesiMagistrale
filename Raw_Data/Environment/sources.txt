@@ -9,7 +9,7 @@
 
 @article{oecd_PM25,
    author = {OECD},
-   title = {Exposure to PM2.5 Fine Particles - Countries and Regions},
+   title = {{Exposure to PM2.5 Fine Particles - Countries and Regions}},
    year = {2016},
    url = {https://www.oecd-ilibrary.org/content/data/96171c76-en},
    doi = {https://doi.org/10.1787/96171c76-en}
