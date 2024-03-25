@@ -1,0 +1,14 @@
+name: tesi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - hyperopt
+  - jupyterlab=4.0.13
+  - numpy
+  - pandas
+  - pyreadstat
+  - scikit-learn
+  - seaborn
+prefix: /Users/Edoardo/anaconda3/envs/tesi
