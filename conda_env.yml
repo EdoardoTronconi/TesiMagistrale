@@ -11,4 +11,5 @@ dependencies:
   - pyreadstat
   - scikit-learn
   - seaborn
+  - ipywidgets
 prefix: /Users/Edoardo/anaconda3/envs/tesi
