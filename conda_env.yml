@@ -5,11 +5,13 @@ channels:
 dependencies:
   - geopandas
   - hyperopt
+  - ipywidgets
   - jupyterlab=4.0.13
+  - matplotlib
   - numpy
   - pandas
   - pyreadstat
   - scikit-learn
   - seaborn
-  - ipywidgets
+  - tensorflow
 prefix: /Users/Edoardo/anaconda3/envs/tesi
