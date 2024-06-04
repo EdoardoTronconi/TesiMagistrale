@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.pdf
+!Figures/*
 .DS_store
