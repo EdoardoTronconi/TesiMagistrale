@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 *.pdf
-!/Figures/
-!/PaperFigures/*.pdf
+!Figures/
+!PaperFigures/*.pdf
 .DS_store
